@@ -3,11 +3,11 @@ Hi everyone now we are going to do something extraordinary
 ______________________________________________
 Join the discord:
 
-❤️Fastest growing server🔥
+❤️All time server🔥
 
-❤️Hard workers🔥
+❤️ Programmers🔥
 
-❤️real Hackers 💥
+❤️Real Hackers 💥
 
 Join our discord💥
 
