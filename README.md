@@ -4,12 +4,18 @@ Hi everyone now we are going to do something extraordinary
 Cracking zip file 
 Using python tool
 
-Prerequisities
+Prerequisities:
+
 Python3
+
 zipfile
+
 Word list
+
 Tqdm
+
 Pip or pip3
+______________________________________________
 
 Getting Started
 
@@ -26,7 +32,7 @@ Or
 $pip3 install tqdm
 
 $ python3 szip.py
-
+______________________________________________
 
 
 
