@@ -34,6 +34,10 @@ ______________________________________________
 
 Getting Started:🔥🔥🔥
 
+$git clone https://github.com/specterdhanush/zipcracker
+
+$cd zipcracker
+
 $pip install zipfile
 
 Or
