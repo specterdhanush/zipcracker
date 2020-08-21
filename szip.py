@@ -14,8 +14,8 @@ def graphics():
  |   ===        ||  ||           cc         rr    aa  aa   cc    ||  ((     |
  |===========   ||  ||            cc cc c  rr    *aaaa*aa   cccc ||    ((   |
  |--------------------------------------------------------------------------|
- |                                             Join this Discord :          |
- |                                             https://discord.gg/VVEPpU    |
+ |                                            Join this Discord :           |
+ |                                            https://discord.gg/qtnsM4e    |
  |--------------------------------------------------------------------------|
       ''')
 graphics()
