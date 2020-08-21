@@ -12,13 +12,19 @@ Tqdm
 Pip or pip3
 
 Getting Started
+
 $pip install zipfile
+
 Or
+
 $pip3 install zipfile
 
 $pip install tqdm 
+
 Or
+
 $pip3 install tqdm
+
 $ python3 szip.py
 
 
