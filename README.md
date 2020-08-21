@@ -3,15 +3,13 @@ Hi everyone now we are going to do something extraordinary
 ______________________________________________
 Join the discord:
 
-Fastest growing hacking server 
-for beginners
+❤️Fastest growing server🔥
 
-And 
+❤️Hard workers🔥
 
-Hard workers🔥🔥
+❤️real Hackers 💥
 
 Join our discord💥
-
 
 https://discord.gg/qtnsM4e
 
