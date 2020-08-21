@@ -2,8 +2,12 @@
 Hi everyone now we are going to do something extraordinary
 ______________________________________________
 Join the discord:
+Largest hacking server for beginners
+And 
+Hard workers🔥🔥
+Join our discord💥
 
-https://discord.gg/qtnsM4e
+
 
 ______________________________________________
 Cracking zip file 
