@@ -1,7 +1,8 @@
-# zipcracker
+# zipcracker❤️❤️
 Hi everyone now we are going to do something extraordinary
 
 Cracking zip file 
+🔥🔥🔥🔥
 Using python tool
 
 Prerequisities:
@@ -17,7 +18,7 @@ Tqdm
 Pip or pip3
 ______________________________________________
 
-Getting Started
+Getting Started:🔥🔥🔥
 
 $pip install zipfile
 
