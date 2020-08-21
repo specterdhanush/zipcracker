@@ -1,6 +1,10 @@
 # zipcracker❤️❤️
 Hi everyone now we are going to do something extraordinary
 ______________________________________________
+Join the discord:
+
+https://discord.gg/qtnsM4e
+
 ______________________________________________
 Cracking zip file 
 🔥🔥🔥🔥
